@@ -24,7 +24,7 @@ Nowadays, all areas of science are dealing with unprecedented amounts of data, o
  
 ### Previous Positions 
 
-Before joining the **[University of Oxford](http://www.ox.ac.uk/)**, I was involved with the Computational and Systems Medicine project and the Department of Computer Science at **[University College London](http://www.ucl.ac.uk)**, collaborating, among others, with the [National Cancer Research Institute](https://www.ncri.org.uk/).
+Before joining the **[University of Oxford](http://www.ox.ac.uk/)**, I was involved with the Computational and Systems Medicine project and the Department of Computer Science at **[University College London](http://www.ucl.ac.uk)**, collaborating, among others, with the [National Cancer Research Institute](https://www.ncri.org.uk/). I mainly worked on knowledge management for cancer research data. 
 
 Before that, I completed a **PhD in Computer Science** at **[Queen's University Belfast](http://www.qub.ac.uk)**, UK, and a Licentiateship, which would be equivalent to an MSc, in Computer Science at **[Universidad Nacional de Rosario](https://www.unr.edu.ar/)**, Argentina. 
 During my undergraduate studies, I worked on e-government and did a year in industry as a Software Engineer in Portugal.
