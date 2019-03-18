@@ -14,7 +14,8 @@ redirect_from:
 - [Junior Research Fellow & College Adviser](http://www.kellogg.ox.ac.uk/discover/people/alejandra-gonzalez-beltran/), [Kellogg College](http://kellogg.ox.ac.uk/), [University of Oxford](http://www.ox.ac.uk/)
 - [Software Sustainability Institute](http://software.ac.uk/) [Fellow](https://www.software.ac.uk/about/fellows/alejandra-gonzalez-beltran)
 - Editor of the [W3C DCAT Vocabulary Revision](http://w3c.github.io/dxwg/dcat/) and W3C Dataset eXchange Working Group member
-- Co-Chair of the [Extended Semantic Web Conference](https://2019.eswc-conferences.org) (ESWC19) [Research of Research](https://2019.eswc-conferences.org/call-for-papers-research-of-research-track/): Semantic Representation, Analysis, and Visualization track 
+- Co-Chair of the [Extended Semantic Web Conference](https://2019.eswc-conferences.org) (ESWC19) [Research of Research](https://2019.eswc-conferences.org/call-for-papers-research-of-research-track/): Semantic Representation, Analysis, and Visualization track
+- Co-Chair of the Reproducibility Track within the [International Semantic Web Conference](https://iswc2019.semanticweb.org/organizing-committee/) 
 - Instructor & Instructor Trainer, [The Carpentries](https://carpentries.org/) ([Software Carpentry](https://software-carpentry.org/) & [Data Carpentry](https://datacarpentry.org/)) 
 
 ### Research & Development
