@@ -2,7 +2,7 @@
 title: "Community-standards for reproducible and reusable research"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-09-06-elrig
+permalink: /talks/2012-09-06-drug-discovery
 venue: "Drug Discovery 2012"
 date: 2012-09-06
 location: "Manchester, UK"
