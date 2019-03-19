@@ -3,7 +3,7 @@ title: "Embedding underpinning mechanisms for data reuse and reproducibility in 
 collection: talks
 type: "Conference Talk"
 permalink: /talks/2013-03-20-beyond-the-pdf
-venue: "Bepyond the PDF"
+venue: "Beyond the PDF"
 date: 2013-03-20
 location: "Amsterdam, Netherlands"
 ---
