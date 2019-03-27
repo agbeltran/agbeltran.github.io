@@ -4,4 +4,7 @@ excerpt: "An approach and set of open source software tools to produce machine-a
 collection: portfolio
 ---
 
+
+<br/><img src='/images/2019-machine-actionable-metadata-models/AGB-Machine-Actinoable-FAIR-Metadata-Models-Poster.jpg'>
+
  
