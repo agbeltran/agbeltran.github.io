@@ -9,8 +9,7 @@ redirect_from:
 ---
 ### Current Positions
 
-- Research Lecturer, [Oxford e-Research Centre](http://www.oerc.ox.ac.uk/), [Engineering Science](https://www.eng.ox.ac.uk), [University of Oxford](http://www.ox.ac.uk/)
-    - Member of the [Engineering Science](http://www.eng.ox.ac.uk/) Researchers Committee, [University of Oxford](http://www.ox.ac.uk/)
+- Technical Lead, Software Engineering Group, Scientific Computing Department, [UK Science and Technology Facilities Council](https://stfc.ukri.org/)
 - [Junior Research Fellow & College Adviser](http://www.kellogg.ox.ac.uk/discover/people/alejandra-gonzalez-beltran/), [Kellogg College](http://kellogg.ox.ac.uk/), [University of Oxford](http://www.ox.ac.uk/)
 - [Software Sustainability Institute](http://software.ac.uk/) [Fellow](https://www.software.ac.uk/about/fellows/alejandra-gonzalez-beltran)
 - Editor of the [W3C DCAT Vocabulary Revision](http://w3c.github.io/dxwg/dcat/) and W3C Dataset eXchange Working Group member
@@ -20,10 +19,12 @@ redirect_from:
 
 ### Research & Development
 
-Nowadays, all areas of science are dealing with unprecedented amounts of data, overwhelming our ability to organise, find, analyse, and store it. **Models**, **methods**, and **software tools** for data science and innovative scholarly communication are an absolute necessity for current research, and it is precisely this set of software tools, models and methods that I work on developing, with the aim of enabling **reproducibility** and **aggregation of research results**.
+Nowadays, all areas of science are dealing with unprecedented amounts of data, overwhelming our ability to organise, find, analyse, and store it. **Models**, **methods**, and **software tools** for data science and innovative scholarly communication are an absolute necessity for current research, and it is precisely this set of software tools, models and methods that I work on developing, with the aim of enabling **Findable, Accessible, Interoperable and Reusable (FAIR) data**,  **research reproducibility** and **aggregation of research results**.
  
  
 ### Previous Positions 
+
+Until recently, I was a **Research Lecturer** at the  [Oxford e-Research Centre](http://www.oerc.ox.ac.uk/) in the [Engineering Science](https://www.eng.ox.ac.uk) Department of the [University of Oxford](http://www.ox.ac.uk/). I was also a member of the [Engineering Science](http://www.eng.ox.ac.uk/) Researchers Committee. 
 
 Before joining the **[University of Oxford](http://www.ox.ac.uk/)**, I was involved with the Computational and Systems Medicine project and the Department of Computer Science at **[University College London](http://www.ucl.ac.uk)**, collaborating, among others, with the [National Cancer Research Institute](https://www.ncri.org.uk/). I mainly worked on knowledge management for cancer research data. 
 
