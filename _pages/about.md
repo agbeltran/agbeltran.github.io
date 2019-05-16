@@ -19,7 +19,7 @@ redirect_from:
 
 ### Research & Development
 
-Nowadays, all areas of science are dealing with unprecedented amounts of data, overwhelming our ability to organise, find, analyse, and store it. **Models**, **methods**, and **software tools** for data science and innovative scholarly communication are an absolute necessity for current research, and it is precisely this set of software tools, models and methods that I work on developing, with the aim of enabling **Findable, Accessible, Interoperable and Reusable (FAIR) data**,  **research reproducibility** and **aggregation of research results**.
+Nowadays, all areas of science are dealing with unprecedented amounts of data, overwhelming our ability to organise, find, analyse, and store it. **Models**, **methods**, and **software tools** for data science and innovative scholarly communication are an absolute necessity for current research, and it is precisely this set of software tools, models and methods that I work on developing, with the aim of enabling **Findable, Accessible, Interoperable and Reusable ([FAIR](https://agbeltran.github.io/publication/2016-03-15-fair-guiding-principles)) data**,  **research reproducibility** and **aggregation of research results**.
  
  
 ### Previous Positions 
