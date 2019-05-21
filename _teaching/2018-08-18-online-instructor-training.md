@@ -11,4 +11,4 @@ location: "Online, Web"
 I participated as an instructor for [The Carpentries](https://carpentries.org/) online instructor training for Latin America.
 I taught the session on 'Workshop Introductions'. 
 
-The details of the training are available at: [https://www.raynamharris.com/2018-08-18-ttt-LatinAmerica/][https://www.raynamharris.com/2018-08-18-ttt-LatinAmerica/]
+The details of the training are available at: [https://www.raynamharris.com/2018-08-18-ttt-LatinAmerica/](https://www.raynamharris.com/2018-08-18-ttt-LatinAmerica/).
