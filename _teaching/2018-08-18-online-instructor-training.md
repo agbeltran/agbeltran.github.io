@@ -2,7 +2,7 @@
 title: "The Carpentries - Online Instructor Training for Latin America"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2018-8-18-online-instructor-training
+permalink: /teaching/2018-08-18-online-instructor-training
 venue: "Online"
 date: 2018-08-18 and 2018-08-19
 location: "Online, Web"
