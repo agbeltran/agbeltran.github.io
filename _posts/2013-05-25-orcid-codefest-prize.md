@@ -13,4 +13,10 @@ On 23rd May 2013, I participated in the [ORCID CodeFest](http://www.hackathon.io
 
 My project was about adding support in the ISAcreator Java-based tool to search a user's ORCID and retrieve all their information based on the ORCID API. 
 
-You can read more about what I did in this blog post by Eamonn Maguire: https://isatools.wordpress.com/2013/05/24/alejandras-project-wins-the-orcid-codefest-prize/
+You can read more about what I did in [this blog post by Eamonn Maguire](https://isatools.wordpress.com/2013/05/24/alejandras-project-wins-the-orcid-codefest-prize/).
+
+
+
+![Image of create new profile feature with ORCID for ISAcreator](https://agbeltran.github.com/images/posts/2013-05-23-orcid-codefest/createnewprofile-orcid.png)
+
+![Image of create new profile feature with ORCID for ISAcreator](https://agbeltran.github.com/images/posts/2013-05-23-orcid-codefest/createnewprofile-searchorcid.png)
