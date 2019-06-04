@@ -13,6 +13,9 @@ This paper is a pre-print (not peer-reviewed) that provides an explanation of cu
 
 For citation purposes, download the [BibTex file](https://agbeltran.github.io/publications/bibtex/2019-05-21-software-citation.bib).
 
+We are working on the next version of this document via [Github](https://github.com/force11/force11-sciwg/blob/master/Challenges/readme.md) (editing via pull requests). And for general comments, feel free [to open a new issue](https://github.com/force11/force11-sciwg/issues).
+
+
 
 ### Abstract
 
