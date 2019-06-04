@@ -9,7 +9,7 @@ paperurl: 'https://arxiv.org/abs/1905.08674v1'
 citation: ''
 ---
 
-This paper is a pre-print (not peer-reviewed) that provides an explanation of current issues impacting scholarly attribution of research software, organize updated implementation guidance, and identify where best practices and solutions are still needed.
+This paper is a pre-print (not peer-reviewed) about the software citation implementation challenges. It provides an explanation of current issues impacting scholarly attribution of research software, organize updated implementation guidance, and identify where best practices and solutions are still needed.
 
 For citation purposes, download the [BibTex file](https://agbeltran.github.io/publications/bibtex/2019-05-21-software-citation.bib).
 
