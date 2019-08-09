@@ -27,7 +27,7 @@ Nowadays, all areas of science are dealing with unprecedented amounts of data, o
  
 ### Previous Positions 
 
-Until recently, I was a **Research Lecturer** at the  [Oxford e-Research Centre](http://www.oerc.ox.ac.uk/) in the [Engineering Science](https://www.eng.ox.ac.uk) Department of the [University of Oxford](http://www.ox.ac.uk/). I was also a member of the [Engineering Science](http://www.eng.ox.ac.uk/) Researchers Committee. 
+Until recently, I was a **Research Lecturer** at the  [Oxford e-Research Centre](http://www.oerc.ox.ac.uk/) in the [Engineering Science](https://www.eng.ox.ac.uk) Department of the [University of Oxford](http://www.ox.ac.uk/) and member of [Congregation](https://www.admin.ox.ac.uk/councilsec/governance/congregation/membership/). I was also a member of the [Engineering Science](http://www.eng.ox.ac.uk/) Researchers Committee. 
 
 Before joining the **[University of Oxford](http://www.ox.ac.uk/)**, I was involved with the Computational and Systems Medicine project and the Department of Computer Science at **[University College London](http://www.ucl.ac.uk)**, collaborating, among others, with the [National Cancer Research Institute](https://www.ncri.org.uk/). I mainly worked on knowledge management for cancer research data. 
 

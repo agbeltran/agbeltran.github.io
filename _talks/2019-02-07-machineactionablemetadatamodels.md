@@ -5,7 +5,7 @@ type: "Workshop Talk"
 permalink: /talks/2019-02-07-machineactionablemetadatamodels
 venue: "RSLondonSouthEast19"
 date: 2019-02-07
-location: "Royal Society, London, UK"
+location: "London, UK"
 ---
 
 
