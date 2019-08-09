@@ -15,7 +15,7 @@ I gave this talk in Spanish, while the slides are in English and available in Ze
 The abstract of the talk was shared in Spanish and it can be found below, together with my short bio (also in Spanish).
 
 
-### Mejor Software, Mejores Datos, Mejor Investigación
+### Mejor Software + Mejores Datos = Mejor Investigación
 
 El software es una herramienta fundamental para la investigación. Hay un amplio espectro de tipos de software usado en investigación (desde en un conjunto de programas para resolver un problema específico, o pueden ser varias planillas de cálculo que analizan datos, o en algunos casos pueden ser miles de líneas de código desarrollado por un grupo de ingenieros de software). Para facilitar la investigación de alto nivel es importante que el software sea sustentable y de buena calidad. El Instituto de Software Sustentable (http://software.ac.uk/) sigue la premisa “Mejor Software, Mejor Investigación” y brinda conocimientos y servicios para mejorar la calidad del software para la investigación. A raíz de sus políticas, se ha creado el título “Ingeniero de Software de Investigación” y han surgido Asociaciones en distintos países que agrupan a las personas que trabajan en estas áreas.
 
