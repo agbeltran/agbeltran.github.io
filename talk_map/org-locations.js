@@ -30,6 +30,11 @@ var addressPoints = [
     12.3345898
   ],
   [
+    "Rosario, Argentina | CIFASIS, Rosario | Better software + better data = better research",
+    -32.9595004,
+    -60.6615415
+  ],
+  [
     "Boston, USA | ISMB Workshop: What Bioinformatics need to know about digital publishing beyond the PDF | What was the plan? A role for data standards, models and computational workflows in scholarly data publishing",
     42.3602534,
     -71.0582912
