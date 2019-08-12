@@ -12,6 +12,8 @@ citation: ''
 This paper was the first formal publication of the principles to achieve **Findable**, **Accessible**, **Interoperable** and **Reusable** (FAIR) data. The principles were community-driven and determine what are the main elements to make data FAIR, and support scientific data management and stewardship.   
 
 Since its publication, the FAIR principles have had an impact in multiple research data policies at international level, including:
+- [2016 G20 Leaders’ Communique Hangzhou Summit](https://europa.eu/rapid/press-release_STATEMENT-16-2967_en.htm)
+- [European Open Science Could (EOSC) Declaration](https://ec.europa.eu/research/openscience/pdf/eosc_declaration.pdf)
 - [Turning FAIR into reality](https://publications.europa.eu/en/publication-detail/-/publication/7769a148-f1f6-11e8-9982-01aa75ed71a1/language-en/format-PDF/source-80611283) by the [European Commission FAIR Data Expert Group (FAIR Data EG)](http://www.codata.org/working-groups/fair-data-expert-group)
 - [Prompting an EOSC in practice](https://publications.europa.eu/en/web/eu-law-and-publications/publication-detail/-/publication/5253a1af-ee10-11e8-b690-01aa75ed71a1) by the [European Commission 2nd High Level Expert Group on the European Open Science Cloud (EOSC 2nd HLEG)](https://ec.europa.eu/research/openscience/index.cfm?pg=open-science-cloud-hleg)
 - [NIH Big Data to Knowledge program](https://commonfund.nih.gov/bd2k) 
