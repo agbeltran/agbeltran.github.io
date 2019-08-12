@@ -9,7 +9,7 @@ paperurl: 'https://doi.org/10.1038/sdata.2016.18'
 citation: ''
 ---
 
-This paper was the first formal publication of the principles to achieve **Findable**, **Accessible**, **Interoperable** and **Reusable** (FAIR) data. The principles were community-driven and determine what are the main elements to make data FAIR, and support scientific data management and stewardship.   
+This paper was the first formal publication of the principles to achieve **Findable**, **Accessible**, **Interoperable** and **Reusable** (FAIR) data. The principles were community-driven (see the [FORCE11 page](https://www.force11.org/group/fairgroup/fairprinciples) about them) and determine what are the main elements to make data FAIR, and support scientific data management and stewardship.   
 
 Since its publication, the FAIR principles have had an impact in multiple research data policies at international level, including:
 - [2016 G20 Leaders’ Communique Hangzhou Summit](https://europa.eu/rapid/press-release_STATEMENT-16-2967_en.htm)
