@@ -9,7 +9,7 @@ redirect_from:
 ---
 ### Current Positions
 
-- Technical Lead (Technical Architect and Data Management Team Lead), Software Engineering Group, Scientific Computing Department, [UK Science and Technology Facilities Council](https://stfc.ukri.org/)
+- Data Management Team Lead and Technical Architect, [Software Engineering Group](https://www.scd.stfc.ac.uk/Pages/Software-Engineering-Group.aspx), [Scientific Computing Department](https://www.scd.stfc.ac.uk/), [UK Science and Technology Facilities Council](https://stfc.ukri.org/)
   
   Since May 2019, I am the Data Management Technical Lead (Technical Architect and Team Lead) within the Software Engineering Group at the [Science and Technology Facilities Council (STFC)](https://stfc.ukri.org/). STFC is part of [UK Research and Innovation](https://www.ukri.org/). I am leading the technical aspects around the data management projects, which include the development of bespoke software systems to manage the experimental data produced by the large scale scientific facilities at STFC.
    
