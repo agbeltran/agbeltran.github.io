@@ -1,5 +1,5 @@
 ---
-title: "Research Software London & South East"
+title: "Research Software London & South East 2019"
 collection: service
 type: "Organising and Programme Committee"
 permalink: /service/2019-rslondonse
