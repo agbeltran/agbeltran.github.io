@@ -8,5 +8,5 @@ date: 2020-02-06
 location: "London, UK"
 ---
 
-I am a member of the [Organising and Programme Committees](https://rslondon.ac.uk/rslondonse-2020/committees/) of the [Second Research Software London & South Easth](https://rslondon.ac.uk/rslondonse-2020/) workshop.
+I am a member of the [Organising and Programme Committees](https://rslondon.ac.uk/rslondonse-2020/committees/) of the [Second Research Software London & South East](https://rslondon.ac.uk/rslondonse-2020/) workshop.
 

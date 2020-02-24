@@ -9,5 +9,5 @@ location: "London, UK"
 ---
 
 
-I was a member of the [Organising and Programme Committees](https://rslondon.ac.uk/rslondonse-2019/committees/) of the [Second Research Software London & South Easth](https://rslondon.ac.uk/rslondonse-2019/) workshop.
+I was a member of the [Organising and Programme Committees](https://rslondon.ac.uk/rslondonse-2019/committees/) of the [Second Research Software London & South East](https://rslondon.ac.uk/rslondonse-2019/) workshop.
 
