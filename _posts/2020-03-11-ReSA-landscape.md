@@ -1,11 +1,12 @@
 ---
-title: "The Research Software Alliance (ReSA) and the Community Landscape"
+title: 'The Research Software Alliance (ReSA) and the Community Landscape'
 date: 2020-03-11
 permalink: /posts/2020/03/ReSA-landscape
 tags:
- - research software
- - community
+  - Research Software
+  - Community
 ---
+
 ### Authors: 
 Daniel S. Katz, Michelle Barker, Paula Andrea Martinez, Hartwig Anzt, Alejandra Gonzalez-Beltran, and Tom Bakker"
 
