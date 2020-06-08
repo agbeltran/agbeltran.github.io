@@ -1,6 +1,6 @@
 ---
 title: 'Evidence for the importance of research software'
-date: 2020-08-06
+date: 2020-06-08
 permalink: /posts/2020/08/ReSA-evidence
 author: "Michelle Barker, Daniel S. Katz, Alejandra Gonzalez-Beltran"
 tags:
@@ -54,8 +54,6 @@ Explanation of each category, and examples of some of the resources, are highlig
 *   [UK’s research and innovation infrastructure: opportunities to grow our capability](https://www.ukri.org/research/infrastructure/) highlights the importance of software by recognising software and skills as one of the six computational and e-infrastructure themes.
 
 **Community** considers work on the importance of research software communities in ensuring best practice in software development.
-
-
 
 *   [Computational Research Software: Challenges and Community Organizations Working for Culture Change](https://sinews.siam.org/Details-Page/computational-research-software-challenges-and-community-organizations-working-for-culture-change) identifies the importance of sustained community in the development of high-quality software, and introduces efforts by grassroots organisations and projects to improve software quality, productivity, and sustainability. These endeavors ensure the integrity of research results and enable more effective collaboration.
 *   [Community Organizations: Changing the Culture in Which Research Software Is Developed and Sustained](https://doi.org/10.1109/MCSE.2018.2883051) provides an overview of the grass-roots organisations and projects that have evolved to address growing technical and social challenges in research software productivity, quality, reproducibility, and sustainability. This article then discusses opportunities to leverage their synergistic activities while nurturing work toward emerging software ecosystems.
