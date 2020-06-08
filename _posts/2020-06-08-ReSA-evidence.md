@@ -8,7 +8,7 @@ tags:
   - Community
 ---
 
-(This post is cross-posted on the [URSSI blog](http://urssi.us/blog/2020/06/08/evidence-for-the-importance-of-research-software/), the [SSI blog](https://www.software.ac.uk/blog/2020-06-08-evidence-importance-research-software) and the [Netherlands eScience Center blog](https://blog.esciencecenter.nl/evidence-for-the-importance-of-research-software-1cb4a49077f3), and is archived as [https://doi.org/10.5281/zenodo.xxxxx](https://doi.org/10.5281/zenodo.3873832))
+(This post is cross-posted on the [URSSI blog](http://urssi.us/blog/2020/06/08/evidence-for-the-importance-of-research-software/), the [SSI blog](https://www.software.ac.uk/blog/2020-06-08-evidence-importance-research-software) and the [Netherlands eScience Center blog](https://blog.esciencecenter.nl/evidence-for-the-importance-of-research-software-1cb4a49077f3), and is archived as [https://doi.org/10.5281/zenodo.3873832](https://doi.org/10.5281/zenodo.3873832))
 
 This blog analyses work evidencing the importance of research software to research outcomes, to enable the research software community to find useful evidence to share with key influencers. This analysis considers papers relating to meta-research, policy, community, education and training, research breakthroughs and specific software.
 
