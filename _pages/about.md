@@ -27,7 +27,7 @@ Nowadays, all areas of science are dealing with unprecedented amounts of data, o
  
 ### Previous Positions 
   
-In May 2019, I joined the Software Engineering Group at the [Science and Technology Facilities Council (STFC)](https://stfc.ukri.org/) as the Data Management Team Lead and Technical Architect. STFC is part of [UK Research and Innovation](https://www.ukri.org/). I lead the technical aspects around the data management projects, which include the development of bespoke software systems to manage the experimental data produced by the large scale scientific facilities at STFC.
+In May 2019, I joined the Software Engineering Group at the [Science and Technology Facilities Council (STFC)](https://stfc.ukri.org/) as the **Data Management Team Lead and Technical Architect**. STFC is part of [UK Research and Innovation](https://www.ukri.org/). I lead the technical aspects around the data management projects, which include the development of bespoke software systems to manage the experimental data produced by the large scale scientific facilities at STFC.
 
 Until then, I was a **Research Lecturer** at the  [Oxford e-Research Centre](http://www.oerc.ox.ac.uk/) in the [Engineering Science](https://www.eng.ox.ac.uk) Department of the [University of Oxford](http://www.ox.ac.uk/) and member of [Congregation](https://www.admin.ox.ac.uk/councilsec/governance/congregation/membership/). I was also a member of the [Engineering Science](http://www.eng.ox.ac.uk/) Researchers Committee. 
 
