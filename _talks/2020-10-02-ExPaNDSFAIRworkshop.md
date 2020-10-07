@@ -14,10 +14,12 @@ I was invited to presented in the [ExPaNDS project FAIR workshops](https://expan
 
 The FAIR workshops ran over two days. The first day covered "FAIR for facilities" and the second day was about "The FAIR experiment". 
 
+
+## Large-scale facilities experimental lifecycle & FAIRness
 ### Abstract
 
 A discussion on the large-scale facilites experimental lifecycle in the context of the FAIR data principles and FAIR digital objects. What are the implications of FAIR for data management before, during, and after the experiment?  When, where and how during the lifecycle of an experiment do we collect the metadata we need to document data and make it FAIR?
 
 #### Citation
 
-Alejandra Gonzalez-Beltran. (2020, October). Large-scale facilities experimental lifecycle & FAIRness. Zenodo. http://doi.org/10.5281/zenodo.4067988
+Alejandra Gonzalez-Beltran. (2020, October). Large-scale facilities experimental lifecycle & FAIRness. Zenodo. [http://doi.org/10.5281/zenodo.4067988](http://doi.org/10.5281/zenodo.4067988)
