@@ -1,6 +1,6 @@
 ---
 title: "ExPaNDS"
-excerpt: "The ambitious ExPaNDS project is a collaboration between 10 national Photon and Neutron Research Infrastructures (PaN RIs) as well as EGI. The project aims to deliver standardised, interoperable, and integrated data sources and data analysis services for Photon and Neutron facilities."
+excerpt: "The ambitious ExPaNDS project is a collaboration between 10 national Photon and Neutron Research Infrastructures (PaN RIs) as well as EGI. The project aims to deliver standardised, interoperable, and integrated data sources and data analysis services for Photon and Neutron facilities. <br/><img src='/images/expands_logo.png'>"
 collection: portfolio
 ---
 
