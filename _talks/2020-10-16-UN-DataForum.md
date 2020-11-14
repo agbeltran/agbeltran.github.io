@@ -21,8 +21,6 @@ See more details about the session at [the CODATA website](https://codata.org/mu
 
 ### Session Description
 
-Session Description
-
 Solving today’s global grand challenges demands that both scientific and policy research embrace new innovations and synergies as well as multi-stakeholder partnerships. In order to help build the bridges needed between different data ecosystem domains and communities, the International Science Council, acting as the global voice for science, and working with the UN, has determined the need to launch the CODATA Decadal Programme to build the international communities of practice needed to increase large-scale usability of data across the scientific and policy spheres.
 
 Analyses can benefit from cross-cutting techniques not restricted to those of a single domain. International data used to monitor policy are a fundamental ingredient in many research projects, both in academia and for policy research. They facilitate and improve the quality of research on the ground and can also be improved through the incorporation of data from the scientific community and elsewhere. Creating a two-way bridge between scientific research data and official data is vital.
