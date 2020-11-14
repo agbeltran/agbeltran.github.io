@@ -12,9 +12,11 @@ I was invited to participate in the [United Nations Data Forum 2020](https://uns
 
 ### Data bridges for scientific & official data integration
 
-My slides can be found on Zenodo:
+My slides can be found on [Zenodo](http://doi.org/10.5281/zenodo.4273868). You will find the full set of slides presented at the full session, as well as a single-slide that was presented in the panel discussion session.
 
-Gonzalez-Beltran, Alejandra. (2020, October). "Data bridges for scientific & official data integration". Zenodo. http://doi.org/10.5281/zenodo.4273868
+If you would like to cite the slides, please use:
+
+*Gonzalez-Beltran, Alejandra. (2020, October). "Data bridges for scientific & official data integration". Zenodo. [http://doi.org/10.5281/zenodo.4273868](http://doi.org/10.5281/zenodo.4273868)*
 
 See more details about the session at [the CODATA website](https://codata.org/multi-stakeholder-data-bridges-recording-of-our-live-discussion-relating-to-our-un-data-forum-session/) and the
 [International Science Council](https://council.science/events/discussion-event-un-data-forum/).
