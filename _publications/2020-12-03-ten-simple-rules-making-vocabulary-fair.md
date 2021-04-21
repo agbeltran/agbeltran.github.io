@@ -8,3 +8,5 @@ venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2012.02325'
 citation: 'Simon J D Cox, Alejandra N Gonzalez-Beltran, Barbara Magagna, Maria-Cristina Marinescu. "Ten Simple Rules for making a vocabulary FAIR" https://arxiv.org/abs/2012.02325'
 ---
+
+This pre-print presents Ten Simple Rules for making a vocabulary FAIR. For this work, we have built a related website on [FAIR vocabularies](https://fairvocabularies.github.io/).
