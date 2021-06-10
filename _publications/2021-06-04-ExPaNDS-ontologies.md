@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "ExPaNDS ontologies v1.0"
 collection: publications
 permalink: /publication/2021-06-04-ExPaNDS-ontologies
 excerpt: 'We present ontologies for the domain of photon and neutron (PaN) science. With the primary goal of supporting PaN FAIR data catalogue services, we have developed three ontologies: PaN experimental techniques (PaNET), an ontology of NeXus definitions (NeXusOntology), and a semantic integration ontology for the PaN domain (PaNmapping). The ontologies are presented as initial versions, supported by community development workflows. The work represents deliverable D3.2 of the Horizon 2020 ExPaNDS project.'
@@ -12,3 +12,12 @@ citation: 'Collins, Steve P., da Graça Ramos, Silvia, Iyayi, Daniel, Görzig, H
 ### ExPaNDS ontologies v1.0
 
 We present ontologies for the domain of photon and neutron (PaN) science. With the primary goal of supporting PaN FAIR data catalogue services, we have developed three ontologies: PaN experimental techniques (PaNET), an ontology of NeXus definitions (NeXusOntology), and a semantic integration ontology for the PaN domain (PaNmapping). The ontologies are presented as initial versions, supported by community development workflows. The work represents deliverable D3.2 of the Horizon 2020 ExPaNDS project.
+
+#### Repositories
+
+https://github.com/ExPaNDS-eu/ExPaNDS-experimental-techniques-ontology
+
+https://github.com/ExPaNDS-eu/ExPaNDS-nexus-ontology
+
+https://github.com/ExPaNDS-eu/ExPaNDS-nexus-dcat-mapping-ontology
+
