@@ -15,9 +15,11 @@ We present ontologies for the domain of photon and neutron (PaN) science. With t
 
 #### Repositories
 
-https://github.com/ExPaNDS-eu/ExPaNDS-experimental-techniques-ontology
+The development of each of the ExPaNDS ontologies is happening in the following GitHub repositories and we welcome comments and suggestions for additions of new terms:
 
-https://github.com/ExPaNDS-eu/ExPaNDS-nexus-ontology
+- [https://github.com/ExPaNDS-eu/ExPaNDS-experimental-techniques-ontology](https://github.com/ExPaNDS-eu/ExPaNDS-experimental-techniques-ontology)
 
-https://github.com/ExPaNDS-eu/ExPaNDS-nexus-dcat-mapping-ontology
+- [https://github.com/ExPaNDS-eu/ExPaNDS-nexus-ontology](https://github.com/ExPaNDS-eu/ExPaNDS-nexus-ontology)
+
+- [https://github.com/ExPaNDS-eu/ExPaNDS-nexus-dcat-mapping-ontology](https://github.com/ExPaNDS-eu/ExPaNDS-nexus-dcat-mapping-ontology)
 
