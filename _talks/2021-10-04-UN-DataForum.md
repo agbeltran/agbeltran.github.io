@@ -18,8 +18,7 @@ If you would like to cite the slides, please use:
 
 *Alejandra Gonzalez-Beltran. (2021, October 04). Good practices and guidelines for semantic interoperability. Zenodo. https://doi.org/10.5281/zenodo.5559417*
 
-See more details about the session at [the CODATA website]() and the
-[International Science Council](https://council.science/events/discussion-event-un-data-forum/).
+See more details about the session at [the CODATA website](https://codata.org/un-world-data-forum-session-multi-stakeholder-data-bridges-ii-making-data-work-for-cross-domain-grand-challenges/).
 
 ### Session Description
 
