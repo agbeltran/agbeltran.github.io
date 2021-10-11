@@ -8,9 +8,9 @@ date: 2020-10-16
 location: "Online"
 ---
 
-I was invited to participate in the [United Nations Data Forum 2020](https://unstats.un.org/unsd/undataforum/).
+I was invited to participate in the [United Nations Data Forum 2020](https://unstats.un.org/unsd/undataforum/virtual-2020/).
 
-<a href="https://unstats.un.org/unsd/undataforum/"><img src="../images/un-data-forum-2020.png" alt="UN Data Forum Session ‘Multi-Stakeholder Data Bridges-making data work for cross-domain grand challenges’" width="100"/></a>
+<a href="https://unstats.un.org/unsd/undataforum/virtual-2020/"><img src="../images/un-data-forum-2020.png" alt="UN Data Forum Session ‘Multi-Stakeholder Data Bridges-making data work for cross-domain grand challenges’" width="100"/></a>
 
 ### Data bridges for scientific & official data integration
 
