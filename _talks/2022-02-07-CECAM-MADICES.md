@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Towards FAIR research data management"
 collection: talks
 type: "Talk"
 permalink: /talks/2022-02-07-CECAM-MADICES.md
