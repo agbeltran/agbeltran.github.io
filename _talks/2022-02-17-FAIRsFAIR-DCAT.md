@@ -2,7 +2,7 @@
 title: "The Data Catalog Vocabulary (DCAT)"
 collection: talks
 type: "Talk"
-permalink: /talks/2021-12-09-cosec-ciuk
+permalink: /talks/2022-02-17-FAIRsFAIR-DCAT 
 venue: "FAIRsFAIR webinar"
 date: 2022-02-17
 location: "online"
