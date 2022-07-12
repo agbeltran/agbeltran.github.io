@@ -9,3 +9,6 @@ Since joining [STFC](https://www.ukri.org/councils/stfc/) on May 2019, I have le
 Large scale facilities, such as synchrotrons, neutron and muon sources, lasers and accelerators, generate vast amounts of data that need to be managed in an efficient way, supporting data ingestion for long-term storage and archival, as well as data analysis and data publication workflows.
 
 **DataGateway** focuses on providing data discovery and data access functionality to the data.
+
+**Github:** [https://github.com/ral-facilities/datagateway](https://github.com/ral-facilities/datagateway)
+

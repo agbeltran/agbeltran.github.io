@@ -1,5 +1,5 @@
 ---
-title: "FAIR impact"
+title: "FAIR-impact"
 excerpt: "Expanding FAIR Solutions across EOSC."
 collection: portfolio
 ---
