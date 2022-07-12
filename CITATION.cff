@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Gonzalez-Beltran"
+  given-names: "Alejandra"
+  orcid: "https://orcid.org/0000-0003-3499-8262"
+- family-names: "Lisa"
+  given-names: "Mona"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "coolsoftware"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2021-12-08
+url: "https://github.com/agbeltran/agbeltran.github.io"
