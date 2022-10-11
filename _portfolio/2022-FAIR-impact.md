@@ -1,6 +1,6 @@
 ---
 title: "FAIR-impact"
-excerpt: "Expanding FAIR Solutions across EOSC."
+excerpt: "Expanding FAIR Solutions across EOSC. <br/><img src='/images/fair-impact-logo.svg'>"
 collection: portfolio
 ---
 
