@@ -2,7 +2,7 @@
 title: "Towards FAIR research data management"
 collection: talks
 type: "Talk"
-permalink: /talks/2022-02-07-CECAM-MADICES.md
+permalink: /talks/2022-02-07-CECAM-MADICES
 venue: "CECAM MADICES Workshop"
 date: 2022-02-07
 location: "online"
