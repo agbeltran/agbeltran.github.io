@@ -10,5 +10,12 @@ Large scale facilities, such as synchrotrons, neutron and muon sources, lasers a
 
 **DataGateway** focuses on providing data discovery and data access functionality to the data.
 
-**Github:** [https://github.com/ral-facilities/datagateway](https://github.com/ral-facilities/datagateway)
+The project involves multiple modules available on GitHub.
+
+- [https://github.com/ral-facilities/scigateway](https://github.com/ral-facilities/scigateway)
+- [https://github.com/ral-facilities/scigateway](https://github.com/ral-facilities/scigateway-auth)
+- [https://github.com/ral-facilities/datagateway](https://github.com/ral-facilities/datagateway)
+- [https://github.com/ral-facilities/datagateway](https://github.com/ral-facilities/datagateway-api)
+
+The web application is in production for the [ISIS Data Catalogue](https://data.isis.stfc.ac.uk/) and the Diamond Data Catalogue. 
 
