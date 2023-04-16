@@ -3,7 +3,7 @@ title: "ExPaNDS - Towards FAIR and open photon and neutron data"
 collection: talks
 type: "Talk"
 permalink: /talks/2022-08-26-ExPaNDS-IXS
-venue: "FAIRsFAIR webinar"
+venue: "IXS 2022"
 date: 2022-08-26
 location: "Oxford, UK"
 ---
