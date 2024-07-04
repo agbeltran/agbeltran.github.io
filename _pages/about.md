@@ -9,11 +9,7 @@ redirect_from:
 ---
 ### Current Positions
 
-- **Head of Data**, Computing Division, [UK Atomic Energy Authority](https://ccfe.ukaea.uk/)
-
-Since March 2024, I am the Head of Data at the Computing Division in the UK Atomic Energy Authority (UKAEA).
-
-Our aim is to maximise the value derived from fusion energy data, by providing world class stewardship of digital assets and by developing advanced approaches for transforming data into information and knowledge - to expose novel insights and drive innovation in fusion energy.
+- **Head of Data**, **Computing Division**, [**UK Atomic Energy Authority**](https://ccfe.ukaea.uk/). Since March 2024, I am the Head of Data at the Computing Division in the UK Atomic Energy Authority (UKAEA). Our aim is to maximise the value derived from fusion energy data, by providing world class stewardship of digital assets and by developing advanced approaches for transforming data into information and knowledge - to expose novel insights and drive innovation in fusion energy.
 
 - Chair of the [International Advisory Board](https://www.daphne4nfdi.de/english/272.php), [DAPHNE4NFDI](https://www.daphne4nfdi.de/) project. Funded as a part of the National Research Data Infrastructure Germany ([NFDI](https://www.nfdi.de/)), DAPHNE4NFDI is a €15M project to develop state of the art data infrastructure for the photon and neutron science community. DAPHNE stands for DAta for PHoton and Neutron Experiments and addresses the desperate need for user-oriented tools to help users manage large datasets, from data collection through to analysis, publication and long-term archiving. 
 - [Software Sustainability Institute](http://software.ac.uk/) [Fellow](https://www.software.ac.uk/about/fellows/alejandra-gonzalez-beltran)
