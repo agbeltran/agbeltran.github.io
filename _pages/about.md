@@ -9,9 +9,11 @@ redirect_from:
 ---
 ### Current Positions
 
-- **Group Leader**, [Data & Software Engineering Group](https://www.scd.stfc.ac.uk/Pages/Software-Engineering-Group.aspx), [Scientific Computing Department](https://www.scd.stfc.ac.uk/), [UK Science and Technology Facilities Council](https://stfc.ukri.org/)
-  
-  Since March 2020, I am the Data & Software Engineering Group Leader at the [Science and Technology Facilities Council (STFC)](https://stfc.ukri.org/). STFC is part of [UK Research and Innovation](https://www.ukri.org/). I am leading the group, and our focus is around *data management projects*, which include the development of bespoke software systems to manage the experimental data produced by the large scale scientific facilities at STFC, and *software management*, which includes supporting the software development process. I am a member of the STFC Open Science Committee. 
+- **Head of Data**, Computing Division, [UK Atomic Energy Authority](https://ccfe.ukaea.uk/)
+
+Since March 2024, I am the Head of Data at the Computing Division in the UK Atomic Energy Authority (UKAEA).
+
+Our aim is to maximise the value derived from fusion energy data, by providing world class stewardship of digital assets and by developing advanced approaches for transforming data into information and knowledge - to expose novel insights and drive innovation in fusion energy.
 
 - Chair of the [International Advisory Board](https://www.daphne4nfdi.de/english/272.php), [DAPHNE4NFDI](https://www.daphne4nfdi.de/) project. Funded as a part of the National Research Data Infrastructure Germany ([NFDI](https://www.nfdi.de/)), DAPHNE4NFDI is a €15M project to develop state of the art data infrastructure for the photon and neutron science community. DAPHNE stands for DAta for PHoton and Neutron Experiments and addresses the desperate need for user-oriented tools to help users manage large datasets, from data collection through to analysis, publication and long-term archiving. 
 - [Software Sustainability Institute](http://software.ac.uk/) [Fellow](https://www.software.ac.uk/about/fellows/alejandra-gonzalez-beltran)
@@ -27,8 +29,10 @@ Nowadays, all areas of science are dealing with unprecedented amounts of data, o
  
  
 ### Previous Positions 
-  
-In May 2019, I joined the Software Engineering Group at the [Science and Technology Facilities Council (STFC)](https://stfc.ukri.org/) as the **Data Management Team Lead and Technical Architect**. STFC is part of [UK Research and Innovation](https://www.ukri.org/). I lead the technical aspects around the data management projects, which include the development of bespoke software systems to manage the experimental data produced by the large scale scientific facilities at STFC.
+    
+Since March 2020, I was the [Data & Software Engineering Group](https://www.scd.stfc.ac.uk/Pages/Software-Engineering-Group.aspx) in the [Scientific Computing Department](https://www.scd.stfc.ac.uk/) at the [Science and Technology Facilities Council (STFC)](https://stfc.ukri.org/). STFC is part of [UK Research and Innovation](https://www.ukri.org/). I am leading the group, and our focus is around *data management projects*, which include the development of bespoke software systems to manage the experimental data produced by the large scale scientific facilities at STFC, and *software management*, which includes supporting the software development process. I am a member of the STFC Open Science Committee. 
+
+Before that, in May 2019, I joined the Software Engineering Group at the [Science and Technology Facilities Council (STFC)](https://stfc.ukri.org/) as the **Data Management Team Lead and Technical Architect**. STFC is part of [UK Research and Innovation](https://www.ukri.org/). I lead the technical aspects around the data management projects, which include the development of bespoke software systems to manage the experimental data produced by the large scale scientific facilities at STFC.
 
 Until then, I was a **Research Lecturer** at the  [Oxford e-Research Centre](http://www.oerc.ox.ac.uk/) in the [Engineering Science](https://www.eng.ox.ac.uk) Department of the [University of Oxford](http://www.ox.ac.uk/) and member of [Congregation](https://www.admin.ox.ac.uk/councilsec/governance/congregation/membership/). I was also a member of the [Engineering Science](http://www.eng.ox.ac.uk/) Researchers Committee. 
 
